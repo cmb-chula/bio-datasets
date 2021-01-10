@@ -37,6 +37,12 @@
    - **Date:** May 2020
    - **Link:** [ChemicalChecker](https://chemicalchecker.org) and [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137202)
    - **Size:** 25 properties of up to 778,460 small molecules (some features are not available for all small molecules)
+   
+4. [Predicting drug–protein interaction using quasi-visual question answering system](https://www.nature.com/articles/s42256-020-0152-y)
+   - **Decription:** An end-to-end deep learning approach for predicting drug-protein interaction. Also describe three public datasets.
+   - **Date:** Feb 2020
+   - **Link:** [DUD-E](https://pubs.acs.org/doi/10.1021/jm300687e), [BindingDB](https://academic.oup.com/nar/article/44/D1/D1045/2502601), and [Negative samples](https://academic.oup.com/bioinformatics/article/31/12/i221/216307)
+   - **Size:** Combined 62,392 positive interactions and > 1.4M negative interactions
 
 ---
 ## Cancer
