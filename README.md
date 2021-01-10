@@ -11,6 +11,14 @@
    - **Size:** 162,000 unique cCRE-gene pairs across the 13 biosamples
 
 ---
+## Single-Cell Transcriptomics
+1. [Benchmarking single-cell RNA-sequencing protocols for cell atlas projects](https://www.nature.com/articles/s41587-020-0469-4)
+   - **Decription:** Benchmark dataset of 13 commonly-used scRNA-seq protocols on samples consisted of human PBMC (60%), mouse colon cells (30%), and various cell lines
+   - **Date:** Apr 2020
+   - **Link:** [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE133549)
+   - **Size:** Transcriptoics data for ~3,000 cell for each protocol (raw sequencing data)
+
+---
 ## Drug
 1. [Prediction of drug combination effects with a minimal set of experiments](https://www.nature.com/articles/s42256-019-0122-4)
    - **Decription:** A compendium of 23,595 drug combination matrices tested in various cancer cell lines and malaria and Ebola infection models
