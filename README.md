@@ -28,6 +28,7 @@
    - **Decription:** A collection of structural, chemical, and biological properties of ~800,000 small molecules
    - **Date:** May 2020
    - **Link:** [ChemicalChecker](https://chemicalchecker.org) and [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137202)
+   - **Size:** 25 properties of up to 778,460 small molecules (some features are not available for all small molecules)
 
 ---
 ## Cancer
