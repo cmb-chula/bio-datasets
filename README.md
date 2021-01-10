@@ -44,4 +44,10 @@
    - **Decription:** Patterns of somatic passenger mutations detected in whole genome sequencing (WGS) of 2606 tumours representing 24 common cancer types produced by the PCAWG Consortium
    - **Date:** Feb 2020
    - **Link:** [PCAWG Consortium](https://dcc.icgc.org/releases/PCAWG), various databases
-   - **Size:** Genetic mutations of 2606 tumours from 24 common cancer types
+   - **Size:** Genetic mutations of 2,606 tumours from 24 cancer types
+   
+2. [Multi-omic and multi-view clustering algorithms: review and cancer benchmark](https://academic.oup.com/nar/article/46/20/10546/5123392)
+   - **Decription:** Benchmarking of methods to integrate multi-omics data (gene expression, miRNA expression, and DNA methylation) to identify distinct cancer patient groups in TCGA dataset
+   - **Date:** Nov 2018
+   - **Link:** [Ron Shamir's Lab](http://acgt.cs.tau.ac.il/multi_omic_benchmark/download.html)
+   - **Size:** 170-621 patients each from 10 cancer types (processed data)
