@@ -13,7 +13,7 @@
 ---
 ## Drug
 1. [Prediction of drug combination effects with a minimal set of experiments](https://www.nature.com/articles/s42256-019-0122-4)
-   - **Decription:** A compendium of 23,595 drug combination matrices tested in various cancer cell lines and malaria and Ebola infection models. DECREASE, an efficient machine learning model that requires only a limited set of pairwise dose–response measurements for accurate prediction of drug combination synergy in a given sample
+   - **Decription:** A compendium of 23,595 drug combination matrices tested in various cancer cell lines and malaria and Ebola infection models
    - **Date:** Dec 2019
    - **Link:** [GitHub](https://github.com/IanevskiAleksandr/DECREASE/tree/master/210_Novel_Anticancer_combinations), [web tool](http://decrease.fimm.fi/data_availability), various publications and databases
    - **Size:** 23,595 drug combination matrices tested in cancer cell lines and malaria and Ebola infection models
@@ -26,7 +26,7 @@
 
 3. [Extending the small-molecule similarity principle to all levels of biology with the Chemical Checker](https://www.nature.com/articles/s41587-020-0502-7)
    - **Decription:** A collection of structural, chemical, and biological properties of ~800,000 small molecules
-   - **Date:** JMayune 2020
+   - **Date:** May 2020
    - **Link:** [ChemicalChecker](https://chemicalchecker.org) and [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137202)
 
 ---
