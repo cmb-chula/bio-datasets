@@ -19,10 +19,15 @@
    - **Size:** 23,595 drug combination matrices tested in cancer cell lines and malaria and Ebola infection models
    
 2. [Community assessment to advance computational prediction of cancer drug combinations in a pharmacogenomic screen](https://www.nature.com/articles/s41467-019-09799-2)
-   - **Decription:** A compendium of 23,595 drug combination matrices tested in various cancer cell lines and malaria and Ebola infection models. DECREASE, an efficient machine learning model that requires only a limited set of pairwise dose–response measurements for accurate prediction of drug combination synergy in a given sample
+   - **Decription:** Data and competition result from AstraZeneca's DREAM challenge to predict effect of drug combinations
    - **Date:** June 2019
    - **Link:** [Synapes](https://www.synapse.org/DrugCombinationChallenge), [AstraZeneca](https://openinnovation.astrazeneca.com/data-library.html), various databases
    - **Size:** 11,576 experiments from 910 drug combinations across 85 cancer cell lines
+
+3. [Extending the small-molecule similarity principle to all levels of biology with the Chemical Checker](https://www.nature.com/articles/s41587-020-0502-7)
+   - **Decription:** A collection of structural, chemical, and biological properties of ~800,000 small molecules
+   - **Date:** JMayune 2020
+   - **Link:** [ChemicalChecker](https://chemicalchecker.org) and [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137202)
 
 ---
 ## Cancer
