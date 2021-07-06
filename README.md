@@ -10,7 +10,7 @@
    - **Link:** [GitHub](https://github.com/weng-lab/BENGI), ENCODE and various databases
    - **Size:** 162,000 unique cCRE-gene pairs across the 13 biosamples
    
-2. [Large database for the analysis and prediction of spliced and non-spliced peptide generation by proteasomes] (https://www.nature.com/articles/s41597-020-0487-6)
+2. [Large database for the analysis and prediction of spliced and non-spliced peptide generation by proteasomes](https://www.nature.com/articles/s41597-020-0487-6)
    - **Decription:** In vitro proteasome digestion of 55 synthetic polypeptides followed by peptide product identification with mass spectrometry
    - **Date:** May 2020
    - **Link:** [Mendeley](https://data.mendeley.com/datasets/nr7cs764rc/1) and PRIDE PXD016782 (raw mass spectrometry data)
