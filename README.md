@@ -63,3 +63,42 @@
    - **Date:** Nov 2018
    - **Link:** [Ron Shamir's Lab](http://acgt.cs.tau.ac.il/multi_omic_benchmark/download.html)
    - **Size:** 170-621 patients each from 10 cancer types (processed data)
+
+---
+## Chest radiographs
+1. [NIH Chest 14 dataset](https://arxiv.org/abs/1705.02315v5)
+   - **Description:** Chest x-ray images released by NIH. Disease annotations were automatically mined from radiologist reports. Around 1,000 images also contain bounding boxes indicating the location of lesions. Files provided in processed .png formats.
+   - **Date:** 2017
+   - **Link:** [Kaggle](https://www.kaggle.com/datasets/nih-chest-xrays/data), also available from many other clouds
+   - **Size:** 112,120 chest x-ray images from 30,805 patients, with 14 disease class labels
+
+2. [MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs](https://arxiv.org/abs/1901.07042v5)
+   - **Description:** Chest x-ray images from Beth Israel Deaconess Medical Center. Disease annotations were automatically mined from radiologist reports. Files provided in processed .jpg formats. DICOM full-resolution files and radiologist reports are also available.
+   - **Date:** 2019
+   - **Link:** [PhysioNet](https://physionet.org/content/mimic-cxr/2.0.0/), access must be requested
+   - **Size:** 377,110 chest x-ray images, with 14 disease class labels
+  
+3. [CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison](https://arxiv.org/abs/1901.07031v1)
+   - **Description:** Chest x-ray images from Stanford University Medical Center. Disease annotations in the training set were automatically mined from radiologist reports. Disease annotation in the validation and test sets were obtained from experts. This is one of the datasets used to train NLP tools that automatically extract disease labels from radiologist reports.
+   - **Date:** 2019
+   - **Link:** [Stanford's AIM](https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2)
+   - **Size:** 224,316 chest x-ray images from 65,240 patients, with 14 disease class labels
+   
+4. [VinDr-CXR: An open dataset of chest X-rays with radiologist’s annotations](https://www.nature.com/articles/s41597-022-01498-w)
+   - **Description:** Chest x-ray images from Vin AI Group in Vietnam. This dataset is relatively small but each image was extensively annotated by multiple radiologists.
+   - **Date:** 2022
+   - **Link:** [PhysioNet](https://physionet.org/content/vindr-cxr/1.0.0/), [Kaggle](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/)
+   - **Size:** 18,000 chest x-ray images, with 14 disease class labels and **bounding boxes for lesion locations**.
+   
+5. [BRAX, Brazilian labeled chest x-ray dataset](https://www.nature.com/articles/s41597-022-01608-8)
+   - **Description:** Chest x-ray images from Hospital Israelita Albert Einstein in Brazil. Disease annotations in the training set were automatically mined from radiologist reports (in Portugese). Both processed .png files and full-resolution DICOM files are available.
+   - **Date:** 2022
+   - **Link:** [PhysioNet](https://physionet.org/content/brax/1.1.0/)
+   - **Size:** 40,967 chest x-ray images from 19,351 patients, with 14 disease class labels.
+   
+6. [PadChest: A large chest x-ray image dataset with multi-label annotated reports](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301614)
+   - **Description:** Chest x-ray images from San Juan Hospital in Spain. Extensive annotations with 174 radiographic findings, 19 differential diagnoses, and 104 anatomic locations organized as a hierarchical taxonomy were provided. 27% of the labelings performed by clinicians and the rest were predicted by an NLP model.
+   - **Date:** 2020
+   - **Link:** [BIMCV](https://bimcv.cipf.es/bimcv-projects/padchest/)
+   - **Size:** 160,000 chest x-ray images from 67,000 patients.
+   - **Extra:** A [COVID-19 extension](https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/) of this dataset is also available.
